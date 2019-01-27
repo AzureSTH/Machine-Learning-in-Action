@@ -30,8 +30,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/kNN.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="317">
-              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+            <state relative-caret-position="230">
+              <caret line="40" column="75" selection-start-line="40" selection-start-column="75" selection-end-line="40" selection-end-column="75" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -159,7 +159,7 @@
       <workItem from="1548499144263" duration="141000" />
       <workItem from="1548499957491" duration="1480000" />
       <workItem from="1548501528313" duration="6271000" />
-      <workItem from="1548517686314" duration="4073000" />
+      <workItem from="1548517686314" duration="9181000" />
     </task>
     <task id="LOCAL-00001" summary="add k-近邻算法 classify0">
       <created>1548506564660</created>
@@ -175,11 +175,25 @@
       <option name="project" value="LOCAL" />
       <updated>1548506885989</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add 分类器的注释">
+      <created>1548523596573</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1548523596573</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add 文本解析程序">
+      <created>1548602931457</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1548602931457</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11965000" />
+    <option name="totallyTimeSpent" value="17073000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="0" />
@@ -198,9 +212,9 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50064266" side_tool="true" visible="true" weight="0.32884097" />
       <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="12" visible="true" weight="0.32884097" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="12" sideWeight="0.4993573" visible="true" weight="0.32884097" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -214,13 +228,15 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add k-近邻算法 classify0" />
-    <option name="LAST_COMMIT_MESSAGE" value="add k-近邻算法 classify0" />
+    <MESSAGE value="add 分类器的注释" />
+    <MESSAGE value="add 文本解析程序" />
+    <option name="LAST_COMMIT_MESSAGE" value="add 文本解析程序" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/kNN.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        <state relative-caret-position="230">
+          <caret line="40" column="75" selection-start-line="40" selection-start-column="75" selection-end-line="40" selection-end-column="75" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
