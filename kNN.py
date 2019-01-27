@@ -37,7 +37,7 @@ def file2matrix(filename):
     for line in arrayOLines:
         line = line.strip()
         listFromLine = line.split('\t')
-        returnMat[index,:] = listFromLine[0:3]  # 按行赋值 将lFL的前三个元素赋给returnMat的第index行
+        returnMat[index,:] = listFromLine[0:3]  # 按行赋值 将lFL的前三个元素赋给returnMat的第index行  **见numpy高级索引
         classLabelVector.append(int(listFromLine[-1]))  # 把每次lFL的最后一个元素加入cLV **不设int的话会作为字符串处理
         index += 1
     return returnMat,classLabelVector

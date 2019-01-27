@@ -30,8 +30,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/kNN.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="40" column="75" selection-start-line="40" selection-start-column="75" selection-end-line="40" selection-end-column="75" />
+            <state relative-caret-position="224">
+              <caret line="40" column="61" selection-start-line="40" selection-start-column="61" selection-end-line="40" selection-end-column="61" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -159,7 +159,7 @@
       <workItem from="1548499144263" duration="141000" />
       <workItem from="1548499957491" duration="1480000" />
       <workItem from="1548501528313" duration="6271000" />
-      <workItem from="1548517686314" duration="9181000" />
+      <workItem from="1548517686314" duration="9433000" />
     </task>
     <task id="LOCAL-00001" summary="add k-近邻算法 classify0">
       <created>1548506564660</created>
@@ -189,11 +189,18 @@
       <option name="project" value="LOCAL" />
       <updated>1548602931457</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add 文本解析程序注释">
+      <created>1548608706473</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1548608706473</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17073000" />
+    <option name="totallyTimeSpent" value="17325000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="0" />
@@ -230,13 +237,14 @@
     <MESSAGE value="add k-近邻算法 classify0" />
     <MESSAGE value="add 分类器的注释" />
     <MESSAGE value="add 文本解析程序" />
-    <option name="LAST_COMMIT_MESSAGE" value="add 文本解析程序" />
+    <MESSAGE value="add 文本解析程序注释" />
+    <option name="LAST_COMMIT_MESSAGE" value="add 文本解析程序注释" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/kNN.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="40" column="75" selection-start-line="40" selection-start-column="75" selection-end-line="40" selection-end-column="75" />
+        <state relative-caret-position="224">
+          <caret line="40" column="61" selection-start-line="40" selection-start-column="61" selection-end-line="40" selection-end-column="61" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
