@@ -27,4 +27,17 @@ def classify0(inX, dataSet, labels, k):
     return sortedClassCount[0][0]  # 返回第一个元组中的第一个值，即key，即标签
 
 
-
+def file2matrix(filename):
+    fr = open(filename)
+    arrayOLines = fr.readlines()
+    numberOfLines = len(arrayOLines)  # 获取文件行数
+    returnMat = zeros((numberOfLines,3))
+    classLabelVector = []
+    index = 0
+    for line in arrayOLines:
+        line = line.strip()
+        listFromLine = line.split('\t')
+        returnMat[index,:] = listFromLine[0:3]
+        classLabelVector.append(int(listFromLine[-1]))
+        index += 1
+    return returnMat,classLabelVector
